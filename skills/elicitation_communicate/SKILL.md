@@ -13,7 +13,6 @@ description: >
   Скилл поддерживает три режима: адаптация под аудиторию, выбор формата
   и канала, фиксация факта коммуникации.
 project: "Ai_RE_Project"
-copyright: "Ai_RE_Project. Authors: Konstantin Shakurov, Andrey Gerasimov"
 ---
 
 # BABOK 4.4 — Предоставление информации бизнес-анализа

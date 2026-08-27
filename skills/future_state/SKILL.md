@@ -7,7 +7,6 @@ description: >
   Триггеры: «будущее состояние», «future state», «to-be», «цели», «gap-анализ»,
   «ограничения», «потенциальная ценность», «SMART-цели», «define future state».
 project: "Ai_RE_Project"
-copyright: "Ai_RE_Project. Authors: Konstantin Shakurov, Andrey Gerasimov"
 ---
 # SKILL: Define Future State (BABOK 6.2)
 

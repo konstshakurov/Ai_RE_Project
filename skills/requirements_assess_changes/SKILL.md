@@ -7,7 +7,6 @@ description: >
   Триггеры: «change request», «CR», «запрос на изменение», «impact analysis»,
   «оценка изменений», «assess change», «изменение требований», «новый CR».
 project: "Ai_RE_Project"
-copyright: "Ai_RE_Project. Authors: Konstantin Shakurov, Andrey Gerasimov"
 ---
 # SKILL: BABOK 5.4 — Assess Requirements Changes
 **Задача:** оценка последствий предлагаемого изменения требований и дизайнов (Change Request).

@@ -12,7 +12,6 @@ description: >
   Скилл поддерживает три режима: внутренняя проверка BA (основной),
   подготовка точечного уточнения (опциональный), фиксация финального результата.
 project: "Ai_RE_Project"
-copyright: "Ai_RE_Project. Authors: Konstantin Shakurov, Andrey Gerasimov"
 ---
 
 # BABOK 4.3 — Подтверждение результатов выявления

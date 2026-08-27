@@ -8,7 +8,6 @@ description: >
   «что делать первым», «конфликт приоритетов», «важность требования», «бэклог»,
   «time boxing», «фиксированный бюджет», «что влезет в спринт».
 project: "AI-powered Platform Ai_RE_Project"
-copyright: "Ai_RE_Project. Authors: Konstantin Shakurov, Andrey Gerasimov"
 ---
 # SKILL: BABOK 5.3 — Prioritize Requirements
 **Задача:** приоритизация требований и дизайнов — определение их относительной важности для стейкхолдеров.

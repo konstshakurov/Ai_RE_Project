@@ -8,7 +8,6 @@ description: >
   к выявлению", "с кем поговорить", "как собрать требования", "опрос стейкхолдеров".
   Скилл ведёт BA пошагово: цели → стейкхолдеры → форма выявления → вопросы → артефакт.
 project: "Ai_RE_Project"
-copyright: "Ai_RE_Project. Authors: Konstantin Shakurov, Andrey Gerasimov"
 ---
 
 # BABOK 4.1 — Подготовка к выявлению

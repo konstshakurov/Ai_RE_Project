@@ -11,7 +11,6 @@ description: >
   анализ в контексте Change Request. Итеративный процесс — каждое новое интервью
   сравнивается с предыдущими.
 project: "Ai_RE_Project"
-copyright: "Ai_RE_Project. Authors: Konstantin Shakurov, Andrey Gerasimov"
 ---
 
 # BABOK 4.2 — Проведение выявления

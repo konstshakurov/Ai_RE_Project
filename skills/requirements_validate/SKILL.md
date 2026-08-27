@@ -7,7 +7,6 @@ description: >
   Триггеры: «валидация требований», «validate requirements», «нужно ли это бизнесу»,
   «соответствие целям», «business value», «правильные ли требования», «acceptance».
 project: "Ai_RE_Project"
-copyright: "Ai_RE_Project. Authors: Konstantin Shakurov, Andrey Gerasimov"
 ---
 # SKILL.md — BABOK 7.3 Validate Requirements
 

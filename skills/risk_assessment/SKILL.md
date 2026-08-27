@@ -7,7 +7,6 @@ description: >
   Триггеры: «оценка рисков», «assess risks», «risk matrix», «риски проекта»,
   «вероятность и impact», «risk register», «толерантность к риску», «risk assessment».
 project: "Ai_RE_Project"
-copyright: "Ai_RE_Project. Authors: Konstantin Shakurov, Andrey Gerasimov"
 ---
 # SKILL: 6.3 — Assess Risks (Оценка рисков)
 

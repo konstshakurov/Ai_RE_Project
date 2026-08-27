@@ -7,7 +7,6 @@ description: >
   Триггеры: «утверждение требований», «approve requirements», «baseline», «согласование»,
   «одобрение стейкхолдеров», «подписать требования», «requirements sign-off».
 project: "Ai_RE_Project"
-copyright: "Ai_RE_Project. Authors: Konstantin Shakurov, Andrey Gerasimov"
 ---
 # SKILL: BABOK 5.5 — Approve Requirements
 

@@ -7,7 +7,6 @@ description: >
   Триггеры: «трассировка», «trace requirements», «traceability matrix», «связи требований»,
   «impact analysis», «откуда это требование», «coverage», «граф требований».
 project: "Ai_RE_Project"
-copyright: "Ai_RE_Project. Authors: Konstantin Shakurov, Andrey Gerasimov"
 ---
 # SKILL: BABOK 5.1 — Trace Requirements
 **Задача:** управление трассировкой требований на протяжении жизненного цикла.  

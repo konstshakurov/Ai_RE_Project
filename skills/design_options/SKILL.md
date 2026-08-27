@@ -7,7 +7,6 @@ description: >
   Триггеры: «варианты дизайна», «design options», «build vs buy», «варианты реализации»,
   «как реализовать», «технические альтернативы», «solution options».
 project: "Ai_RE_Project"
-copyright: "Ai_RE_Project. Authors: Konstantin Shakurov, Andrey Gerasimov"
 ---
 # SKILL.md — BABOK 7.5 Define Design Options
 

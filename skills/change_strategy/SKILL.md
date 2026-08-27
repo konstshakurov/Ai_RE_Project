@@ -8,7 +8,6 @@ description: >
   Триггеры: «стратегия изменения», «варианты решения», «скоуп», «готовность организации»,
   «compare options», «change strategy», «define solution scope», «transition states».
 project: "Ai_RE_Project"
-copyright: "Ai_RE_Project. Authors: Konstantin Shakurov, Andrey Gerasimov"
 ---
 # SKILL: 6.4 — Define Change Strategy (Определение стратегии изменения)
 

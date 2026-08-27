@@ -10,7 +10,6 @@ description: >
   Скилл ведёт BA по пяти задачам Главы 3: подход → стейкхолдеры → governance →
   хранение информации → оценка эффективности.
 project: "Ai_RE_Project"
-copyright: "Ai_RE_Project. Authors: Konstantin Shakurov, Andrey Gerasimov"
 ---
 
 # BABOK Глава 3 — Планирование и мониторинг бизнес-анализа

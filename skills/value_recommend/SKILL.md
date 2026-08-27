@@ -7,7 +7,6 @@ description: >
   Триггеры: «оценка ценности», «analyze value», «рекомендация решения», «ROI»,
   «какой вариант выбрать», «potential value», «рекомендовать решение», «net value».
 project: "Ai_RE_Project"
-copyright: "Ai_RE_Project. Authors: Konstantin Shakurov, Andrey Gerasimov"
 ---
 # SKILL: Analyze Potential Value and Recommend Solution (BABOK 7.6)
 

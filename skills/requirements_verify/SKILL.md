@@ -7,7 +7,6 @@ description: >
   не про ценность для бизнеса. Триггеры: «верификация требований», «verify requirements»,
   «качество требований», «requirements quality», «проверить требования», «чеклист».
 project: "Ai_RE_Project"
-copyright: "Ai_RE_Project. Authors: Konstantin Shakurov, Andrey Gerasimov"
 ---
 # SKILL.md — BABOK 7.2 Verify Requirements
 

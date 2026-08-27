@@ -7,7 +7,6 @@ description: >
   Триггеры: «обновить требование», «maintain requirements», «депрекировать»,
   «здоровье требований», «requirements health», «reuse», «повторное использование».
 project: "Ai_RE_Project"
-copyright: "Ai_RE_Project. Authors: Konstantin Shakurov, Andrey Gerasimov"
 ---
 # SKILL: BABOK 5.2 — Maintain Requirements
 **Задача:** поддержание актуальности требований и их атрибутов на протяжении жизненного цикла.

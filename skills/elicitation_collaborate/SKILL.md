@@ -13,7 +13,6 @@ description: >
   Скилл поддерживает четыре режима: диагностика вовлечённости, decision log,
   протокол встречи, анализ конфликта.
 project: "Ai_RE_Project"
-copyright: "Ai_RE_Project. Authors: Konstantin Shakurov, Andrey Gerasimov"
 ---
 
 # BABOK 4.5 — Управление сотрудничеством с заинтересованными сторонами

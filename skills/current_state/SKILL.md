@@ -7,7 +7,6 @@ description: >
   Триггеры: «текущее состояние», «as-is», «проблема», «бизнес-потребность»,
   «корневая причина», «current state», «analyze current state», «почему так происходит».
 project: "Ai_RE_Project"
-copyright: "Ai_RE_Project. Authors: Konstantin Shakurov, Andrey Gerasimov"
 ---
 # SKILL: Analyze Current State (BABOK 6.1)
 

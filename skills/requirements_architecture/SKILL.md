@@ -7,7 +7,6 @@ description: >
   Триггеры: «архитектура требований», «requirements architecture», «слои требований»,
   «структура требований», «views», «как организовать требования», «requirements structure».
 project: "Ai_RE_Project"
-copyright: "Ai_RE_Project. Authors: Konstantin Shakurov, Andrey Gerasimov"
 ---
 # SKILL.md — BABOK 7.4 Define Requirements Architecture
 

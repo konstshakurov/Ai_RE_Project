@@ -7,7 +7,6 @@ description: >
   Триггеры: «спецификация требований», «user story», «use case», «бизнес-правила»,
   «specify requirements», «написать требования», «оформить требования», «BPMN», «модели».
 project: "Ai_RE_Project"
-copyright: "Ai_RE_Project. Authors: Konstantin Shakurov, Andrey Gerasimov"
 ---
 # SKILL.md — BABOK 7.1: Specify and Model Requirements
 

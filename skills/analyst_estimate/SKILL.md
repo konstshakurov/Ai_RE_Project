@@ -16,7 +16,7 @@ description: >
   «оценка по EstimateRE», «оценка объёма работ БА», «создай оценку», «оцени
   продуктовый проект» (когда речь о трудозатратах, а не о ценности/рисках).
 project: "Ai_RE_Project"
-copyright: "Ai_RE_Project. Author: Konstantin Shakurov"
+copyright: "Ai_RE_Project. Author: Konstantin Shakurov, Andrey Gerasimov"
 ---
 
 # SKILL: Оценка трудозатрат аналитика по нормочасам СимбирСофт

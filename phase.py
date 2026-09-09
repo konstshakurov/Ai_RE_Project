@@ -59,6 +59,13 @@ BASE_SERVER = {
     # Confluence is present in all phases — the server is small (5 tools),
     # it starts without .env (the error only occurs when a tool is called).
     "babok-confluence": _server("skills/integrations/confluence_mcp.py"),
+    # GetAnalyst skills (DB/REST API/UML Sequence) design without MCP — these
+    # three servers only register the finished artifact into the 5.1
+    # traceability graph (satisfies link), so they belong in every phase just
+    # like ch3 (KON-24).
+    "getanalyst-db-designer": _server("skills/analyst_db_designer_getanalyst_mcp.py"),
+    "getanalyst-restapi-designer": _server("skills/analyst_restapi_designer_getanalyst_mcp.py"),
+    "getanalyst-uml-sequence": _server("skills/analyst_uml_sequence_getanalyst_mcp.py"),
 }
 
 PHASES = {

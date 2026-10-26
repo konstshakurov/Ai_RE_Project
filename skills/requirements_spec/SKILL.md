@@ -264,6 +264,8 @@ create_erd(
 индексы, миграции, — следующий шаг: `skills/analyst_db_designer_getanalyst/SKILL.md`,
 взяв эту ERD как вход.
 
+**Где что хранится.** Логическая ERD из `create_erd` — требование и остаётся в слое 1 (`output/data/<project_id>/specs/erd_*`); в карточках бизнес-функций `product_docs/` на неё ссылаются по ID. Физическая модель, ER-диаграмма и таблицы — страницы компонентов БД в `product_docs/02_system_components/<база>/` (см. `analyst_db_designer_getanalyst`).
+
 ---
 
 ### `build_coverage_matrix`

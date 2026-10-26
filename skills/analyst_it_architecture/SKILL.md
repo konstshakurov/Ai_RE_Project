@@ -177,6 +177,8 @@ copyright: "Ai_RE_Project. Author: Andrey Gerasimov"
 | compliance-mapping | `15-compliance-mapping.md` (enterprise) |
 | migration-strategy | `16-migration-strategy.md` (enterprise) |
 
+**Связь с `product_docs/`.** Архитектурный пакет остаётся в `architecture/` (пишет архитектор). Если в проекте ведётся живая документация (`product_docs/`, см. `CLAUDE.md`), страницы системных компонентов `product_docs/02_system_components/<компонент>/` ссылаются на него в блоке «Архитектурное решение» (C4, ADR) и не копируют его. Блок «Архитектурное решение» этих страниц тоже пишет архитектор, остальное — аналитик.
+
 ## Поэтапная генерация
 
 Генерация делится на 3 этапа. После каждого этапа — пауза для подтверждения.

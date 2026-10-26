@@ -24,6 +24,11 @@ output/.history/
 !output/data/.gitkeep
 !output/reports/.gitkeep
 
+# Living product documentation of the product project (created by init_product_docs.py from
+# templates/product_docs/): project data, like output/. A project that versions its own
+# documentation (as it does with output/) removes this line in its copy.
+/product_docs/
+
 # Competency 1 re-estimates made after project start — project-specific, not part of the tool
 estimate/*
 !estimate/.gitkeep
